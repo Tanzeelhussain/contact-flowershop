@@ -1,0 +1,34 @@
+
+@font-face {
+    font-family: Cormorant Garamond;
+    src: url(Fonts/CormorantGaramond-Regular.ttf);
+}
+body{
+    padding: 0;
+    margin: 0;
+    overflow-y: visible;
+}
+.orange-font{
+  color:   #CC583E !important;
+}
+.purple-font{
+    color: #383546af;
+}
+.cormorant-garamond{
+    font-family: Cormorant Garamond, serif;
+}
+.seventy-px-font{
+    font-size: 70px;
+}
+.main-sec{
+    background-image:linear-gradient(rgba(83, 28, 28, 0.7),rgba(83,28,28,0.7)),url(contact-hero-bg.jpg);
+
+    
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.border-mine{
+    border: none !important;
+    border: solid 0.5px #4d4d4e7a !important;
+}
